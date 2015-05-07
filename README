@@ -1,0 +1,6 @@
+Building:
+
+ # aclocal && autoheader && automake --add-missing && autoreconf && ./configure && make
+
+Running:
+# ./src/hello
